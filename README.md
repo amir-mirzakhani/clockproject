@@ -25,4 +25,4 @@ The clock will stop updating.
 An alarm will sound to indicate that the set time has been reached.
 You can stop the alarm by clicking on the "Stop Alarm" button.
 ## Examples
-click  [here]() to see demo
+click  [here](https://amir-mirzakhani.github.io/clockproject/) to see demo
